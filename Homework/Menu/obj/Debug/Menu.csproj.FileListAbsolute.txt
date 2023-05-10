@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\HomeWork\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HomeWork\Menu\obj\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\HomeWork\Menu\obj\Debug\HomeWork.Menu.resources
+C:\Users\User\Desktop\HomeWork\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\User\Desktop\HomeWork\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\User\Desktop\HomeWork\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HomeWork\Menu\bin\Debug\Menu.exe.config
+C:\Users\User\Desktop\HomeWork\Menu\bin\Debug\Menu.exe
+C:\Users\User\Desktop\HomeWork\Menu\bin\Debug\Menu.pdb
+C:\Users\User\Desktop\HomeWork\Menu\bin\Debug\HomeWork.exe
+C:\Users\User\Desktop\HomeWork\Menu\bin\Debug\HomeWork.pdb
+C:\Users\User\Desktop\HomeWork\Menu\bin\Debug\HomeWork.exe.config
+C:\Users\User\Desktop\HomeWork\Menu\obj\Debug\Menu.csproj.CopyComplete
+C:\Users\User\Desktop\HomeWork\Menu\obj\Debug\Menu.exe
+C:\Users\User\Desktop\HomeWork\Menu\obj\Debug\Menu.pdb
